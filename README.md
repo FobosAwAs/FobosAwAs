@@ -40,9 +40,6 @@ Hola a todos, mi nombre es Juan Ramos, estudiante de ingeniería en sistemas en 
 ##
 ### Contact me 📩
 
-[![ Seguir](https://img.shields.io/twitter/follow/juanramossc?style=social)](https://twitter.com/JuanRamossC)
-[![Star](https://img.shields.io/badge/perfil-FobosAwAs-yellow?style=social&logo=github)](https://github.com/FobosAwAS)
-  
 <div> 
   
   <a href = "mailto:juanramossc.741@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
