@@ -44,9 +44,10 @@ Hola a todos, mi nombre es Juan Ramos, estudiante de ingeniería en sistemas en 
 [![Star](https://img.shields.io/badge/perfil-FobosAwAs-yellow?style=social&logo=github)](https://github.com/FobosAwAS)
   
 <div> 
-  <a href="https://instagram.com/fobos_awas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
   <a href = "mailto:juanramossc.741@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/JuanRamossC" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/FobosAwAs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
