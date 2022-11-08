@@ -1,6 +1,6 @@
 ### Hi there 👋 
 Welcome to my Github page!
-Hola a todos, mi nombre es Juan Ramos, estudiante de ingeniería en sistemas en la Universidad de Córdoba.
+Hola a todos, mi nombre es Juan Ramos, ingeniero de sistemas graduado en la Universidad de Córdoba.
 
 ##
 
@@ -8,7 +8,7 @@ Hola a todos, mi nombre es Juan Ramos, estudiante de ingeniería en sistemas en 
 
 
 #### 🌱 Things I am currently working on: 
-- Terminar mi carrera universitaria, actualmente estoy en decimo semestre. 
+- Terminar el diplomado en desarrollo web
 - Terminar mi diplomado (Análisis de datos con Python) y sustentar mi proyecto final
 
 
